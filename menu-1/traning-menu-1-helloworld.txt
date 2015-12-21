@@ -1,1 +1,10 @@
+# menu 1
 show 'hellow world' in your cui with new language
+
+# target language-list:
+C
+C#
+python
+delphi
+power shell
+cmd(windows)
